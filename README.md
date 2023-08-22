@@ -1,7 +1,6 @@
-# Vue 3 + Vite
+# Quint proyecto Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Quinto proyecto del curso de vue, similar al proyecto de Criptomonedas, en este estaremos creando una aplicación de clima que se conecta a una API externa, esta API requiere un Key y enviar los datos de cierta forma; una vez enviada la petición veremos como obtener los datos y presentarlos.
 
-## Recommended IDE Setup
+## Para ver la web haga click en la siguiente URL:
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
